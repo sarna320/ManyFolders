@@ -22,4 +22,4 @@ function New-Directory
         Write-Output ("Foldery o podanej nazwie juz istnieja") # Wypisanie aktualnego statnu
     }
 }
-New-Directory -Path D:\testy -Name "elo" -Number 6 # Uruchomienie funckji 
+New-Directory -Path D:\testy -Name "test" -Number 6 # Uruchomienie funckji 

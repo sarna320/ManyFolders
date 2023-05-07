@@ -1,5 +1,5 @@
 # ManyFolders
-Powershell script for creating many folders at once with the same name increamented by one <br />
+Powershell script for creating many folders at once with the same name, incremented by one <br />
  <br />
 Example: <br />
 New-Directory -Path D:\testy -Name "test" -Number 6  <br />
